@@ -13,4 +13,4 @@ echo "<p>Nama saya adalah $nama";
 echo "<p>Nama panggilan saya adalah $NAMA";
 echo "<p>Umur saya adalah $umur";
 
-echo "br><br><br><strong>by dewi puspita sari</strong>";
+echo "<br><br><br><strong>by dewi puspita sari</strong>";
