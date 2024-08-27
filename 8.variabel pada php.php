@@ -1,7 +1,7 @@
 <?php
 
 $nisn1 ="dewi puspita sari";
-$harga =1500
+$harga =1500;
 $nama_barang ="kopi c++";
 $hrga =5000;
 $stok =50;
@@ -25,7 +25,7 @@ $namaPembeli = "dewi puspita sari"; //  menggunakan camelCase
 
 //3) Variabel harus diisi saat pembuatannya. Bila kita tidak ingin mengisi, cukup isi dengan nilai kosong.
 //Contoh:
-$nama_barang = "";
+$nama_barang = "ipad";
 $namaPembeli = "dewi puspita sari";
 $harga = 70000;
 
@@ -40,13 +40,12 @@ echo
 $nisn1,"<p>".
 $harga,"<p>".
 $nama_barang,"<p>".
-$namabarang1,"<p>".
 $harga,"<p>".
 $stok,"<p>".
 $nama,"<p>".
 $rosi46,"<p>".
 $nama_barang,"<p>".
-$namapembeli,"<p>".
+$nama_barang,"<p>".
 $nama_barang,"<p>".
 $namaPembeli,"<p>".
 $harga,"<p>".
