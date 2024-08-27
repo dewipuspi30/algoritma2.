@@ -8,5 +8,4 @@ echo "<h2>" . $txt1 . "</h2>";
 echo "Dibelajar pemrograman PHP di " . $txt2 . "<br>";
 echo $x + $y;
 ?>
-
 echo "<br><br><br><strong>By dewi puspita sari</strong>";
